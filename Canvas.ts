@@ -314,3 +314,5 @@ class Canvas {
         this.Context.scale(x, y);
         return this;
 	}
+	
+}
